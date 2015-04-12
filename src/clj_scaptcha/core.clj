@@ -1,7 +1,6 @@
 (ns clj-scaptcha.core
   (:import nl.captcha.Captcha
-           javax.imageio.ImageIO
-           java.awt.image.BufferedImage)
+           javax.imageio.ImageIO)
   (:require [ring.util.io :refer [piped-input-stream]]
             [ring.util.response :refer [response header content-type]]))
 
