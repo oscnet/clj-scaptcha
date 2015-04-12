@@ -1,4 +1,4 @@
-(defproject clj-scaptcha "0.1.2"
+(defproject clj-scaptcha "0.1.3"
   :description "A Clojure library that wrapper simplecaptcha"
   :url "http://github.com/oscnet/clj-scaptcha"
   :license {:name "Eclipse Public License"
