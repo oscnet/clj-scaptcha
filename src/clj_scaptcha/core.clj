@@ -3,7 +3,6 @@
            javax.imageio.ImageIO
            java.awt.image.BufferedImage)
   (:require [ring.util.io :refer [piped-input-stream]]
-            [noir.request :refer [*request*]]
             [ring.util.response :refer [response header content-type]]))
 
 (defn- get-captcha [req]

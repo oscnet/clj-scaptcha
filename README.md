@@ -7,7 +7,7 @@ A Clojure library that wrapper simplecaptcha
 add the following dependency to your project.clj file:
 
 ```clojure
-[clj-scaptcha "0.1.0"]
+[clj-scaptcha "0.1.1"]
 
 ```
 
