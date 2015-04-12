@@ -7,6 +7,5 @@
                  [ring/ring-core "1.3.2"]
                  [org.clojars.smallrivers/simplecaptcha "1.2.1"]]
   :profiles {:test {:dependencies [[ring/ring-defaults "0.1.4"]
-				   [compojure "1.3.3"]
+                                   [compojure "1.3.3"]
                                    [ring/ring-mock "0.2.0"]]}})
-
